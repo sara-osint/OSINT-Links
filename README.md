@@ -1,7 +1,5 @@
 # OSINT Resources
 
-A collection of OSINT tools and websites categorized and sorted alphabetically.
-
 ## People Search
 - [ClustrMaps](https://clustrmaps.com/)
 - [FastPeopleSearch](https://www.fastpeoplesearch.com/)
