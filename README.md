@@ -90,7 +90,7 @@ A collection of OSINT tools and websites categorized and sorted alphabetically.
 - [Follow That Page](https://followthatpage.com/)
 - [Sken.io](https://www.sken.io/)
 - [Google Alerts](https://alerts.google.com/)
-- [Wachete] (https://www.wachete.com/)
-- [PasteBin] (https://pastebin.com/alerts/)
+- [Wachete](https://www.wachete.com/)
+- [PasteBin](https://pastebin.com/alerts/)
 
 This list is continuously updated with the best OSINT resources available.
